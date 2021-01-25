@@ -52,7 +52,7 @@
      
  productionDeployment:
      cfTargets:
-     - org:  'EngSrvVal-E2E_79hf4psgfl9l92vr'
+       - org:  'EngSrvVal-E2E_79hf4psgfl9l92vr'
          space: 'dev'
          appName: 'cloud-sf-extension-cap-sample'
          apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
